@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
       - name: Generate snake animation from contribution graph
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +26,18 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate stat cards
+        run: node scripts/generate-cards.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+          OUT_DIR: dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -113,9 +113,9 @@ print(me.current_status())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hadesfenyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub Stats" height="175" />
+<img src="https://raw.githubusercontent.com/Hadesfenyx/Hadesfenyx/output/stats-card.svg" alt="GitHub Stats" height="185" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadesfenyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&card_width=320" alt="Top Languages" height="175" />
+<img src="https://raw.githubusercontent.com/Hadesfenyx/Hadesfenyx/output/top-langs-card.svg" alt="Top Languages" height="185" />
 
 <br/><br/>
 
@@ -123,7 +123,7 @@ print(me.current_status())
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hadesfenyx&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/Hadesfenyx/Hadesfenyx/output/milestones-card.svg" alt="GitHub Milestones" />
 
 <br/><br/>
 
