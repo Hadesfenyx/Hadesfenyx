@@ -1,0 +1,31 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="animated wave footer">
+  <defs>
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="waveDeep" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d59a1"/>
+      <stop offset="1" stop-color="#7aa2f7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave -->
+  <path d="M0 70 Q125 30 250 70 T500 70 T750 70 T1000 70 T1250 70 T1500 70 V140 H0 Z"
+        fill="url(#waveGrad)" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- middle wave -->
+  <path d="M-500 85 Q-375 48 -250 85 T0 85 T250 85 T500 85 T750 85 T1000 85 V140 H-500 Z"
+        fill="url(#waveGrad)" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="500 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave -->
+  <path d="M0 102 Q125 70 250 102 T500 102 T750 102 T1000 102 T1250 102 T1500 102 V140 H0 Z"
+        fill="url(#waveDeep)" opacity="0.85">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
