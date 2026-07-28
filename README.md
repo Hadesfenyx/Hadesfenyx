@@ -113,9 +113,9 @@ print(me.current_status())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hadesfenyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true&include_all_commits=true" alt="GitHub Stats" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hadesfenyx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&rank_icon=github" alt="GitHub Stats" height="175" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadesfenyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadesfenyx&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&card_width=320" alt="Top Languages" height="175" />
 
 <br/><br/>
 
@@ -123,7 +123,7 @@ print(me.current_status())
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hadesfenyx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Hadesfenyx&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 <br/><br/>
 
