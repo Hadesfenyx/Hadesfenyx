@@ -1,0 +1,29 @@
+<svg width="860" height="140" viewBox="0 0 860 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="140" rx="12" fill="#1a1b27"/>
+  <text x="24" y="36" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#7aa2f7">Milestones</text>
+
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze"/>
+    <text x="105.2" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="30" font-weight="800" fill="#7aa2f7">2+</text>
+    <text x="105.2" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#a9b1d6">Years on GitHub</text>
+  </g>
+  <rect x="186.4" y="58" width="1" height="52" fill="#565f89" opacity="0.35"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+    <text x="267.6" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="30" font-weight="800" fill="#bb9af7">8</text>
+    <text x="267.6" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#a9b1d6">Public Repos</text>
+  </g>
+  <rect x="348.8" y="58" width="1" height="52" fill="#565f89" opacity="0.35"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    <text x="430.0" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="30" font-weight="800" fill="#7dcfff">32</text>
+    <text x="430.0" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#a9b1d6">Contributions</text>
+  </g>
+  <rect x="511.2" y="58" width="1" height="52" fill="#565f89" opacity="0.35"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44999999999999996s" fill="freeze"/>
+    <text x="592.4" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="30" font-weight="800" fill="#9ece6a">0</text>
+    <text x="592.4" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#a9b1d6">Stars Earned</text>
+  </g>
+  <rect x="673.6" y="58" width="1" height="52" fill="#565f89" opacity="0.35"/>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    <text x="754.8" y="92" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="30" font-weight="800" fill="#e0af68">0</text>
+    <text x="754.8" y="116" text-anchor="middle" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="13" fill="#a9b1d6">Followers</text>
+  </g>
+</svg>
