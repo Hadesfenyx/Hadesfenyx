@@ -1,0 +1,29 @@
+<svg width="467" height="210" viewBox="0 0 467 210" xmlns="http://www.w3.org/2000/svg">
+  <rect width="467" height="210" rx="12" fill="#1a1b27"/>
+  <text x="24" y="36" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#7aa2f7">Hades's GitHub Stats</text>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze"/>
+    <g transform="translate(24 50)"><path fill="#7aa2f7" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></g>
+    <text x="52" y="62" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" fill="#a9b1d6">Total Stars Earned</text>
+    <text x="440" y="62" text-anchor="end" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#7aa2f7">0</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+    <g transform="translate(24 77)"><circle cx="8" cy="8" r="3" fill="none" stroke="#bb9af7" stroke-width="1.6"/><path stroke="#bb9af7" stroke-width="1.6" d="M0 8h4.6M11.4 8H16"/></g>
+    <text x="52" y="89" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" fill="#a9b1d6">Commits (this year)</text>
+    <text x="440" y="89" text-anchor="end" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#bb9af7">24</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    <g transform="translate(24 104)"><path fill="#7dcfff" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354Z"/></g>
+    <text x="52" y="116" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" fill="#a9b1d6">Pull Requests</text>
+    <text x="440" y="116" text-anchor="end" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#7dcfff">0</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.44999999999999996s" fill="freeze"/>
+    <g transform="translate(24 131)"><circle cx="8" cy="8" r="6.5" fill="none" stroke="#9ece6a" stroke-width="1.6"/><circle cx="8" cy="8" r="1.7" fill="#9ece6a"/></g>
+    <text x="52" y="143" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" fill="#a9b1d6">Issues</text>
+    <text x="440" y="143" text-anchor="end" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#9ece6a">0</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    <g transform="translate(24 158)"><path fill="#e0af68" d="M10.561 8.073a6 6 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6 6 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/></g>
+    <text x="52" y="170" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" fill="#a9b1d6">Followers</text>
+    <text x="440" y="170" text-anchor="end" font-family="'Segoe UI',Ubuntu,sans-serif" font-size="14" font-weight="700" fill="#e0af68">0</text>
+  </g>
+</svg>
